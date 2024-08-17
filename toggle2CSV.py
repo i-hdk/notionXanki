@@ -30,7 +30,7 @@ for line in lines:
         firstDesc = False
         desc = ""
     else:
-        desc+=line
+        desc+=line+"\n"
 
 descriptions.append(desc)
 #print(titles)
