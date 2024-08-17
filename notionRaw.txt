@@ -1,0 +1,134 @@
+- metacognition
+    - the ability to “think about our thinking.”
+    - knowledge about oneself and the ability to select effective strategies, as well as being able to evaluate task performance
+- dunning-kruger effect
+    - tested participants on their logic, grammar, and [sense of humor](https://www.psychologytoday.com/us/basics/humor), and found that those who performed in the bottom quartile rated their skills far above average
+        - those who say they are avg or below tend to have more skill
+    - can’t accurately judge their own competence, because they lack *metacognition,* or the ability to step back and [examine oneself objectively](https://www.psychologytoday.com/us/blog/supersurvivors/201806/why-the-least-competent-people-often-think-theyre-the-best). In fact, those who are the least skilled are also the most likely to overestimate their abilities.
+    - Many individuals mistakenly believe that their experience and skills in one particular area are transferable to another
+- framing
+    - “framing” effect, or how we present an issue, affects our decisions & judgements
+    - if u want someone to do the surgery, say “90% chance of living” instead of “10% chance of dying” (loss aversion)
+- confirmation bias
+    - the fact that people are more likely to accept or notice information if it appears to support what they already believe or expect
+    - what should you do instead?
+        - try to disprove what you believe
+- cognitive bias
+    - a systematic error in thinking that occurs when people process and interpret information in their surroundings, influencing their decisions and judgments
+    - causes of cognitive bias
+        - mental shortcuts called “heuristics”
+            - shortcuts are often wrong
+        - social pressure
+        - limits on mind’s attention
+        - individual motivations
+        - emotions
+- heuristics
+    - mental shortcuts
+    - a simple thinking strategy that often allows us to make judgments and solve problems efficiently; usually speedier but also more error-prone than algorithms
+- loss aversion
+    
+    a phenomenon where a real or potential loss is perceived by individuals as psychologically or emotionally more severe than an equivalent gain
+    
+- conjunction fallacy
+    - the human tendency to mistakenly assume that multiple specific conditions are more probable than a single general condition
+    - more unlikely to be both be bank teller and feminist than just bank teller
+- representativeness heuristic
+    - to judge the likelihood of things in terms of how well they represent particular prototypes
+    - use **mental shortcut** to use when estimate probabilities
+    - try to assess how likely a certain event is based on an existing mental **prototype (**a mental representation of the most typical and characteristic example of a category)
+- availability heuristic
+    - estimate the likelihood of events based on how mentally available they are
+    - what comes to mind quickly is deemed significant — sometimes incorrectly
+- sunk cost fallacy
+    - a cognitive bias that makes you feel as if you should continue pouring money, time, or effort into a situation since you’ve already “sunk” so much into it already
+    - “this movie stinks but i already bought the tickets so i might as well finish watching it”
+        - doesnt make a difference, u can get the money back
+    - “sunk cost” is an economic term for any past expenses that can non longer be recovered
+- convergent thinking
+    - narrows the available problem solutions to determine the single best solution
+    - the ability to determine the single best solution
+    - intelligence tests, which typically demand a single correct ans, require convergent thinking
+- divergent thinking
+    - expands the number of possible problem solutions (creative thinking that diverges in different directions)
+- cognition
+    
+    the mental activities associated with thinking, knowing, remembering, and communicating info
+    
+- concepts
+    
+    mental groupings of similar objects, events, ideas, and people
+    
+- prototypes
+    
+    a mental representation of the most typical and characteristic example of a category
+    
+- schemas
+    - a concept or framework that organizes and interprets information
+    - a mental concept, describes patterns of thinking and behavior that people use to interpret the world
+    - Consider how a young child may first develop a schema for a horse. They know that a horse is large and has hair, four legs, and a tail. So, when the child encounters a cow for the first time, they might initially call it a horse. After all, the cow fits in with their schema for the characteristics of a horse
+- assimilation
+    - interpreting our new experiences in terms of our existing schemas
+    - incorporating new information into existing schemas
+- accommodation
+    - adapting our current understandings (schemas) to incorporate new info
+    - modifying existing schemas or creating new ones to accommodate new information
+- algorithms
+    - a methodical, logical rule or procedure that guarantees solving a particular problem. contracts with the usually speedier but also more error-prone use of heuristics
+    - following step-by-step instructions to build a model airplane, solve a complex physics problem, or bake a cake
+- insight
+    
+    a sudden realization of a problem’s solution; contrasts with strategy-based solutions
+    
+- mental set
+    
+    a tendency to approach a problem in one particular way, often a way that has been successful in the past
+    
+- intuition
+    
+    an effortless, immediate, automatic feeling or thought, as contrasted with explicit, conscious reasoning
+    
+- overconfidence
+    
+    the tendency to be more confident than correct - to overestimate the accuracy of our beliefs and judgements
+    
+- belief perseverance
+    
+    clinging to one’s initial conceptions after the basis on which they were formed has been discredited
+    
+- anchoring bias
+    
+    a cognitive bias that causes us to rely heavily on the first piece of information we are given about a topic
+    
+- gambler’s fallacy
+    
+    the mistaken belief that if an event occurred more frequently than expected in the past then it’s less likely to occur in the future (and vice versa)
+    
+- executive functions
+    - a set of cognitive skills that are needed for self-control and managing behaviors.
+    - **Attentional control**: This involves an individual's ability to [focus attention](https://www.verywellmind.com/what-is-selective-attention-2795022) and concentrate on something specific in the environment.
+    - **Cognitive flexibility**: Sometimes referred to as [mental flexibility](https://www.verywellmind.com/brain-exercises-to-strengthen-your-mind-2795039), this refers to the ability to switch from one mental task to another or to think about multiple things at the same time.
+    - **Cognitive inhibition**: This involves the ability to tune out irrelevant information.
+    - **Inhibitory control**: This involves the ability to inhibit impulses or desires in order to engage in more appropriate or beneficial behaviors.
+    - [**Working memory**](https://www.verywellmind.com/add-and-working-memory-20796): Working memory is a “temporary storage system” in the brain that holds several facts or thoughts in mind while solving a problem or performing a task.
+- hindsight bias
+    
+    things always seem more obvious and predictable *after* they have already happened
+    
+- creativity
+    
+    the ability to produce ideas that are both novel and valuable
+    
+- functional fixedness
+    
+    a cognitive bias that limits a person to use an object only in the way it is traditionally used
+    
+- flow
+    - Being immersed can be defined as a state of focus in which a person is completely absorbed and engrossed in their work
+    - often associated with the creative arts, such as painting, drawing, or writing. However, it can also occur while engaging in a sport, such as skiing, tennis, soccer, dancing, or running
+- forgetting curve
+    
+    hypothesizes the decline of memory retention in time. This curve shows how information is lost over time when there is no attempt to retain it
+    
+- active/passive learning
+    
+    With active learning, students learn by getting involved in the information and synthesizing it through such methods as debate, experiments and other hands-on exercises. Passive learning is a more internal process in which students take in and memorize the information that is provided to them
